@@ -12,12 +12,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## component 주기
 
-# render
+### render
 componentWillMount() ->
 render() ->
 componentDidMount()
 
-# update
+### update
 componentWillReceiveProps() -> 
 shouldComponentUpdate() -> 
 componentWillUpdate() -> //로딩중
